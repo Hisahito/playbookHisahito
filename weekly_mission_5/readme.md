@@ -1,7 +1,5 @@
 # Weekly Mission 5
 
-# Weekly Mission 5
-
 # Semana 5 
 
 Proyectos desarrollados en la semana 5:
